@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/charlesq9-alita-badge.png)](https://mseep.ai/app/charlesq9-alita)
+
 # Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution
 
 The GAIA game is over, and Alita is the final answer.
