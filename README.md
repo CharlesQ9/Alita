@@ -10,6 +10,10 @@ Many general-purpose agents rely heavily on large-scale, manually predefined too
 
 🔗Full paper: [https://arxiv.org/abs/2505.20286](https://arxiv.org/abs/2505.20286)
 
+🔗AgentDistill: [https://arxiv.org/pdf/2506.14728](https://arxiv.org/pdf/2506.14728)
+
+🔗Survey of Self-Evolving Agents: [https://arxiv.org/pdf/2507.21046](https://arxiv.org/pdf/2507.21046) Github: [https://github.com/CharlesQ9/Self-Evolving-Agents](https://github.com/CharlesQ9/Self-Evolving-Agents) 
+
 🔗More Details will be updated here: [https://github.com/CharlesQ9/Alita](https://github.com/CharlesQ9/Alita)
 
 **Alita achieves 75.15% pass@1 and 87.27% pass@3 on GAIA validation and 75.42% pass@1 on GAIA test.**
